@@ -1,0 +1,7 @@
+print("Alat Memasak: ")
+print("Kompor")
+print("Gas")
+print("Wajan")
+print("Spatula")
+print("Saringan")
+print("Piring")
