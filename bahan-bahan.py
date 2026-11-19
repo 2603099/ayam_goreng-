@@ -1,0 +1,7 @@
+print("Bahan-bahan:")
+print("- Ayam")
+print("- Marinasi instan")
+print("- Air")
+print("- Garam")
+print("- Merica bubuk")
+print("- Jeruk nipis")
