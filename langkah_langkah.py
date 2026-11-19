@@ -1,0 +1,8 @@
+print("Siaplan dan cuci ayam")
+print("Campur bumbu marinasi")
+print("Lumuri ayam dengan bumbu")
+print("Diamkan Hingga bumbu meresap")
+print("Panaskan minyak goreng")
+print("Goreng ayam hingga matang")
+print("Angkat dan tiriskan")
+print("Ayam goreng siap disajikan")
